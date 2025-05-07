@@ -66,10 +66,6 @@ Perform inference on video data
 
 Evaluate performance
 
-📂 Datasets
-🎞️ Video Dataset: Google Drive Link
-
-📊 Dataset after Feature Extraction: Google Drive Link
 
 📌 Notes
 Please make sure to download the datasets and place them in the correct folder as specified in the notebooks.
