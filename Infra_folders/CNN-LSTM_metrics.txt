@@ -1,0 +1,7 @@
+Test Accuracy: 0.7725
+Macro Precision: 0.7743
+Macro Recall:    0.7718
+Macro F1-score: 0.7697
+Cohen's Kappa:  0.7471
+G-Mean (macro): 0.7620
+Log Loss:       0.8302
