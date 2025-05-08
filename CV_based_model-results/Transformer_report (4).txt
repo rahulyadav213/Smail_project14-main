@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+       cover       0.54      0.74      0.62        19
+     defense       0.94      0.89      0.92        19
+       flick       0.67      0.56      0.61        18
+        hook       0.53      0.89      0.67        18
+    late_cut       0.52      0.67      0.59        18
+      lofted       0.73      0.55      0.63        20
+        pull       0.71      0.28      0.40        18
+  square_cut       0.47      0.45      0.46        20
+    straight       0.84      0.84      0.84        19
+       sweep       0.76      0.65      0.70        20
+
+    accuracy                           0.65       189
+   macro avg       0.67      0.65      0.64       189
+weighted avg       0.67      0.65      0.64       189
